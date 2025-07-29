@@ -28,6 +28,7 @@ Currently seeking internship opportunities to apply my skills in real-world proj
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-F05340?style=flat&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Next](https://img.shields.io/badge/-Next-20232A?style=flat&logo=next)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
