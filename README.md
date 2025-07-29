@@ -10,7 +10,7 @@
 
 I'm a passionate IT undergraduate with hands-on experience in:
 
-- 💡 **Web Development:** HTML, CSS, JavaScript, PHP, Laravel, React, Node.js  
+- 💡 **Web Development:** HTML, CSS, JavaScript, PHP, Laravel, React, Node.js, Next.js  
 - ⚙️ **Programming:** Java, Python, C++, C#  
 - 🗄️ **Databases:** MS SQL, MySQL  
 - 🧠 **Problem Solving & Collaboration:** Strong team player with analytical skills  
