@@ -29,6 +29,8 @@ I'm a passionate IT undergraduate with a focus on building scalable web applicat
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-20232A?style=flat&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Owl.js](https://img.shields.io/badge/-Owl.js-875A7B?style=flat&logo=odoo&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
@@ -38,9 +40,13 @@ I'm a passionate IT undergraduate with a focus on building scalable web applicat
 ![Laravel](https://img.shields.io/badge/-Laravel-F05340?style=flat&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=flat&logo=odoo&logoColor=white)
 
 #### **Databases & DevOps**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -50,6 +56,15 @@ I'm a passionate IT undergraduate with a focus on building scalable web applicat
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![XML](https://img.shields.io/badge/-XML-0060AC?style=flat&logo=xml&logoColor=white)
+
+#### **Version Contraller**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0747a6?style=flat&logo=bitbucket&logoColor=white)
+
+#### **APIs**
+![Google API](https://img.shields.io/badge/-Google_APIs-4285F4?style=flat&logo=google&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 ---
 
@@ -67,7 +82,6 @@ I'm a passionate IT undergraduate with a focus on building scalable web applicat
 ### 📊 GitHub Stats
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krvdias&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krvdias&layout=compact&theme=radical" />
 
 </div>
