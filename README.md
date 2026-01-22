@@ -28,6 +28,8 @@ I'm a passionate IT undergraduate with a focus on building scalable web applicat
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-20232A?style=flat&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Owl.js](https://img.shields.io/badge/-Owl.js-875A7B?style=flat&logo=odoo&logoColor=white)
@@ -48,6 +50,7 @@ I'm a passionate IT undergraduate with a focus on building scalable web applicat
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=flat&logo=odoo&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 
 #### **Databases & DevOps**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -67,6 +70,23 @@ I'm a passionate IT undergraduate with a focus on building scalable web applicat
 #### **APIs**
 ![Google API](https://img.shields.io/badge/-Google_APIs-4285F4?style=flat&logo=google&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+
+#### **Handled Tools**
+![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
+![Adobe Acrobat Reader](https://img.shields.io/badge/Acrobat%20Reader-EC1C24.svg?style=flat&logo=adobeacrobatreader&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Creative%20Cloud-DA1F26.svg?style=flat&logo=adobecreativecloud&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=flat&logo=adobelightroom&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=flat&logo=adobepremierepro&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-%231B72BE.svg?style=flat&logo=affinitydesigner&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=flat&logo=jira&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
 
 ---
 
@@ -82,11 +102,9 @@ I'm a passionate IT undergraduate with a focus on building scalable web applicat
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krvdias&layout=compact&theme=radical" />
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=krvdias&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=krvdias&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krvdias&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
